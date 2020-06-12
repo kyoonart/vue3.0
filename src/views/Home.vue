@@ -15,7 +15,7 @@
 </template>
 
 <script>
-// todo reactive 2020-6-11 21:08:52
+// todo reactive 2020-6-11 21:08:52  finish
 // @ is an alias to /src
 import { ref, computed, reactive, watch } from "vue";
 export default {
