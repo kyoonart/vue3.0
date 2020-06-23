@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Home :title="name" v-on:titlechange="titleChange"></Home>
+    <Home :title="name" @titlechange="titleChange"></Home>
     <button type="button" @click="Change()">change</button>
   </div>
 </template>
